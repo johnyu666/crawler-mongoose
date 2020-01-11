@@ -2,11 +2,13 @@
 
 ## 使用
 ```
-git clone ""
-cd 
+
+git clone "https://github.com/johnyu666/crawler-mongoose.git"
+cd  crawler-mongoose
 npm install 
 # 测试：
-npm run mocha
+npm run test
 # 运行
 npm start
+
 ```
